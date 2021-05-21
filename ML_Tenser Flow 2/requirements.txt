@@ -46,7 +46,7 @@ xgboost==0.82
 # you must install CUDA, cuDNN and more: see tensorflow.org for the detailed
 # installation instructions.
 
-tensorflow==2.0.0a0
+tensorflow==2.5.0rc0
 #tensorflow-gpu==2.0.0a0
 
 #tensorboard
